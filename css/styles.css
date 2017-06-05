@@ -1,0 +1,76 @@
+h1, em, li {
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+em {
+  font-style: normal;
+}
+
+.result {
+  display: none;
+  width: 50%;
+  border: 2px solid black;
+  margin: auto auto 2% auto;
+  text-align: center;
+}
+
+.result p {
+  text-align: left;
+}
+
+body {
+  background-color: #68B2B1;
+}
+
+.center {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+#survey-margin {
+  margin: 1%;
+}
+
+#center {
+  display: block;
+  text-align: center;
+}
+
+.QS {
+  display: block;
+}
+
+.QR {
+  display: block;
+}
+
+#well-logo {
+  width: 75%;
+  height: 75%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+#jumbo-logo {
+  width: 100%;
+  height: 100%;
+}
+
+.jumbo-text {
+  vertical-align: middle;
+}
+
+#btn-margin {
+  width: 12.5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 1%;
+  border-radius: 8px;
+  background-color: #68B2B1;
+}
+
+#ruby {
+  color: red;
+}
